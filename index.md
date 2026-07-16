@@ -254,7 +254,7 @@ figure figcaption {
 
 <div class="u-carousel" data-u-carousel>
   <img src="img/PANO_20260507_161602.jpg" alt="">
-  <video src="img/VID_20260507_161803.mp4" controls preload="none" data-caption="Удивительный случай, дрон, который хочет улететь, но его что-то держит. Прям как шмель на нитке"></video>
+  <video src="img/VID_20260507_161803.mp4" controls preload="none" data-caption="Птичка, которая хочет улететь, но у неё не получается. Прям как шмель на нитке"></video>
   <img src="img/IMG_20260507_170922.jpg" alt="" data-caption="Интересный билборд, винду видимо рекламируют. Удивительно, что телеграмм не стоит, было бы очень комично">
 </div>
 
